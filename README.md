@@ -72,4 +72,3 @@
 
 > edit_page.html（帖子编辑页）
 
-> comment_page.html（帖子评论页）
